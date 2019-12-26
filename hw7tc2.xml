@@ -1,0 +1,9 @@
+<country>
+<name>Suffolkia</name>
+<cities>
+["a","b","c","d","e","f"]
+</cities>
+<roads>
+["a,b,2","a,c,7","c,b,3","c,d,4","c,e,3","d,e,3","e,f,6","d,f,1"]
+</roads>
+</country>
